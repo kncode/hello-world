@@ -1,4 +1,4 @@
-I am a# hello-world
+# hello-world
 My first Git repository
 I am a noob
 
